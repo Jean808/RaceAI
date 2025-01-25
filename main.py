@@ -230,7 +230,7 @@ class Session:
         self.car.draw()
         self.score.draw()
         pg.display.flip()
-
+    print("hello")
 
     def run(self):
         running = True
